@@ -1,6 +1,7 @@
 # Project template for Spine Toolbox
 
 This is a template repository for Git-versioned Spine Toolbox projects.
+To create a new GitHub repository based on this template, click on the **Use this template** button.
 
 ## Ignored files
 
