@@ -5,7 +5,7 @@ This is a template repository for Git-versioned Spine Toolbox projects.
 ## Ignored files
 
 Some files are ignored by default:
-- output files created by proejct execution
+- output files created by project execution
 - temporary and log files
 
 Other project-specific ignores can be added to the [.gitignore](.gitignore) file.
